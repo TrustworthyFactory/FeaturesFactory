@@ -25,13 +25,6 @@
          unpack="false"/>
 
    <plugin
-         id="com.thalesgroup.optet.analysis.codepro"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="com.thalesgroup.optet.analysis.findbugs"
          download-size="0"
          install-size="0"
@@ -75,13 +68,6 @@
 
    <plugin
          id="com.thalesgroup.optet.twmanagement"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.thalesgroup.optet.analysis.openjml"
          download-size="0"
          install-size="0"
          version="0.0.0"
